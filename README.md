@@ -1,4 +1,4 @@
-# Hustla-vegdelivery-project
+# Hustla-vegdeliveryapp-project
 
 Hustla vegdeliveryApp is a user-friendly mobile application designed to make ordering fresh vegetables easy and convenient. Customers can browse a wide selection of vegetables, place orders, and have them delivered straight to their doorstep.
 
