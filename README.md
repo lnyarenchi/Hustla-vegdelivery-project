@@ -16,3 +16,33 @@ Technologies Used
     Backend: Node.js and Express
     Database: MongoDB
     Payment Integration: Stripe API
+
+    Installation
+
+    Clone the repository:
+
+    sh
+
+git clone https://github.com/yourusername/VeggieDeliveryApp.git
+
+Navigate to the project directory:
+
+sh
+
+cd VeggieDeliveryApp
+
+Install the dependencies:
+
+sh
+
+npm install
+
+Start the development server:
+
+sh
+
+    npm start
+
+License
+
+This project is licensed under the MIT License.
