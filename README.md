@@ -23,7 +23,7 @@ Technologies Used
 
     sh
 
-git clone https://github.com/yourusername/VeggieDeliveryApp.git
+git clone https://github.com/lnyarenchi/VeggieDeliveryApp.git
 
 Navigate to the project directory:
 
