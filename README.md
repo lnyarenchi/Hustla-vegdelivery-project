@@ -23,7 +23,7 @@ Technologies Used
 
     sh
 
-git clone https://github.com/lnyarenchi/VeggieDeliveryApp.git
+git clone https://github.com/lnyarenchi/Hustla-vegdeliveryapp-project.git
 
 Navigate to the project directory:
 
