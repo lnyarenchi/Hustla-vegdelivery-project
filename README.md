@@ -29,7 +29,7 @@ Navigate to the project directory:
 
 sh
 
-cd Hustla_vegdeliveryapp-project
+cd Hustla-vegdeliveryapp-project
 
 Install the dependencies:
 
